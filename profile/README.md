@@ -12,7 +12,7 @@ Pedimos comisiones -> entro a una comision y pido permisos ->
 }
 ```
 
-## Acciones que puede realizar un docente:
+#### Acciones que puede realizar un docente:
 - Corregir / poner notas
 - Asignar correctores
 - Generar QR de asistencia
@@ -76,7 +76,7 @@ Como modificamos esto desde el teacher:
 
 # Alumnos
 ### Registro de cursada  completa
-God
+Done
 
 ### Notificaciones y avisos 
 Falta testear
@@ -86,4 +86,4 @@ Falta testear
 Mostrar tabla en el backoffice
 
 ### Finales unificados
-No lo hacemos
+Discutir
