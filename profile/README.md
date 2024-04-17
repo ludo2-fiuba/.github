@@ -65,11 +65,11 @@ Como modificamos esto desde el teacher:
  - Alumnos: falta el front
    - Promedio a lo largo del tiempo -> sí
    - Comparación de mis promedios vs. global -> sí
-   - Comparación avance de carrera vs. global -> no
+   - Comparación avance de carrera vs. global -> (deprecada por otra)
    - mis top 3 materias (nota mucho mejor que el resto) -> sí
 
  - Profesores (falta todo): 
-   - correlación entre asistencias y aprobación -> (no la hacemos)
+   - correlación entre asistencias y aprobación -> (deprecada por otra)
    - tasa de retención: cuando abandonan más los alumnos la materia -> sí
    - promedio de notas de alumnos a lo largo del tiempo -> sí
    - porcentaje de asistencias durante el cuatrimestre -> sí
