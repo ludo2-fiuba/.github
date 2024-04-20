@@ -37,7 +37,7 @@ Falta
 
 - Pantalla para ver asistencias de una fecha 
 - Pantalla para agregar una asistencia manual
-- Lo que necesito del backend es tipo:
+- ~Lo que necesito del backend es tipo:~ -> Hecho
 ```json
 [
     "fecha": "13/4/2024",
@@ -75,7 +75,7 @@ Como modificamos esto desde el teacher:
    - porcentaje de asistencias durante el cuatrimestre -> sí
 
 # Alumnos
-### Registro de cursada  completa
+### ~Registro de cursada  completa~
 Done
 
 ### Notificaciones y avisos 
