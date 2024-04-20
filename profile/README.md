@@ -3,27 +3,8 @@
 ### Crear semestre (no está en la propuesta)
 Falta 
 
-### ~Colaboración entre docentes~
-Pedimos comisiones -> entro a una comision y pido permisos -> 
-```json
-{ 
-	"rol": "Ayudante", 		
-	"permisos": {"poner_notas": true, ...},
-}
-```
-
-#### Acciones que puede realizar un docente:
-- Corregir / poner notas
-- Asignar correctores
-- Generar QR de asistencia
-- Crear un final
-- Crear un parcial
-- Ver docentes
-- Agregar docente
-- Editar rol de docente
-- Etc
-
-Falta: ~Nueva pantalla de editar de edición de permisos de lo que puede hacer cada rol~
+### ~~Colaboración entre docentes~~
+--> queda para LUDO3
 
 ### Asignación automática de correctores
 
@@ -75,7 +56,7 @@ Como modificamos esto desde el teacher:
    - porcentaje de asistencias durante el cuatrimestre -> sí
 
 # Alumnos
-### ~Registro de cursada  completa~
+### ~Registro de cursada completa~
 Done
 
 ### Notificaciones y avisos 
@@ -85,5 +66,5 @@ Falta testear
 ### ~Registro de auditoría~
 ~Mostrar tabla en el backoffice~
 
-### ~Finales unificados~
-~Discutir~
+### ~~Finales unificados~~
+~~Discutir~~ --> queda para LUDO3
