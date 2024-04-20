@@ -81,9 +81,9 @@ Done
 ### Notificaciones y avisos 
 Falta testear
 
-# Backoffice
-### Registro de auditoría
-Mostrar tabla en el backoffice
+# ~Backoffice~
+### ~Registro de auditoría~
+~Mostrar tabla en el backoffice~
 
 ### ~Finales unificados~
 ~Discutir~
