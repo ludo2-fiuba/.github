@@ -29,7 +29,7 @@ Falta: Nueva pantalla de editar de edición de permisos de lo que puede hacer ca
 
 Falta 
 - Pantalla para editar los pesos de los docentes
-- (~)Endpoint para editar los pesos(~)
+- ~Endpoint para editar los pesos~
 - Agregar botón "asignar correctores" y que se haga la call al endpoint que ya existe.
 - Solo debería poder editar la nota el corrector asignado (debatible)
 
