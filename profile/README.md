@@ -3,7 +3,7 @@
 ### Crear semestre (no está en la propuesta)
 Falta 
 
-### Colaboración entre docentes
+### ~Colaboración entre docentes~
 Pedimos comisiones -> entro a una comision y pido permisos -> 
 ```json
 { 
@@ -23,7 +23,7 @@ Pedimos comisiones -> entro a una comision y pido permisos ->
 - Editar rol de docente
 - Etc
 
-Falta: Nueva pantalla de editar de edición de permisos de lo que puede hacer cada rol
+Falta: ~Nueva pantalla de editar de edición de permisos de lo que puede hacer cada rol~
 
 ### Asignación automática de correctores
 
@@ -62,11 +62,11 @@ Como modificamos esto desde el teacher:
 - Nota minima para las evaluaciones: endpoint + front (edición de evaluaciones)
 
 ### Estadísticas
- - Alumnos: falta el front
-   - Promedio a lo largo del tiempo -> sí
-   - Comparación de mis promedios vs. global -> sí
-   - Comparación avance de carrera vs. global -> (deprecada por otra)
-   - mis top 3 materias (nota mucho mejor que el resto) -> sí
+ - ~Alumnos: falta el front~
+   - ~Promedio a lo largo del tiempo -> sí~
+   - ~Comparación de mis promedios vs. global -> sí~
+   - ~Comparación avance de carrera vs. global -> (deprecada por otra)~
+   - ~mis top 3 materias (nota mucho mejor que el resto) -> sí~
 
  - Profesores (falta todo): 
    - correlación entre asistencias y aprobación -> (deprecada por otra)
@@ -85,5 +85,5 @@ Falta testear
 ### Registro de auditoría
 Mostrar tabla en el backoffice
 
-### Finales unificados
-Discutir
+### ~Finales unificados~
+~Discutir~
