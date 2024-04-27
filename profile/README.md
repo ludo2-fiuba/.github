@@ -38,9 +38,9 @@ Lo que tenemos:
 - Se consideran recuperatorios
 
 Como modificamos esto desde el teacher:
-- cantidad de clases totales: endpoint + front
-- Porcentaje de asistencia minimo: endpoint + front 
-- Nota minima para las evaluaciones: endpoint + front (edición de evaluaciones)
+- cantidad de clases totales: ~endpoint~ + front
+- Porcentaje de asistencia minimo: ~endpoint~ + front 
+- Nota minima para las evaluaciones: ~endpoint~ + front (edición de evaluaciones)
 
 ### Estadísticas
  - ~Alumnos: falta el front~
