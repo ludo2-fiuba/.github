@@ -1,7 +1,7 @@
 # Profesores
 
 ### Crear semestre (no está en la propuesta)
-~Backend~ + Frontend 
+~Backend + Frontend~ 
 
 ### ~~Colaboración entre docentes~~
 --> queda para LUDO3
