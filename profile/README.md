@@ -16,8 +16,8 @@ Falta
 
 ### Registro de asistencias (tanto alumnos como docentes)
 
-- Pantalla para ver asistencias de una fecha 
-- Pantalla para agregar una asistencia manual
+- ~Pantalla para ver asistencias de una fecha~ 
+- ~Pantalla para agregar una asistencia manual~
 - ~Lo que necesito del backend es tipo:~ -> Hecho
 ```json
 [
@@ -28,7 +28,7 @@ Falta
 
 ### Modelado de los criterios de aprobación
 
-Es un endpoint que {{baseUrl}}/api/semesters/is_passing?semester_id=2
+Es un endpoint que ya está hecho {{baseUrl}}/api/semesters/is_passing?semester_id=2
 
 Lo que tenemos:
 - Cantidad de clases de un cuatrimestres
