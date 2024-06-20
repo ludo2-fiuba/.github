@@ -10,6 +10,7 @@
 
 ### Auto-asignar porcentajes
 - Bug: cuando hay 0 o 1 docente, al cambiar la ponderacion tira undefined error (staffTeachers esta empty)
+- Chequear que sos chief teacher para agregar docente desde "Docentes", sino esconder los botones 
     
 ### Nice to have
 - Hay algunas pantallas con forms que no scrollean
