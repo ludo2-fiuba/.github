@@ -1,8 +1,5 @@
 # Profesores
 
-### Asignación automática de correctores
-- **[BACKEND]** Que ignore aquellos que ya tienen nota la asignación automatica de correctores 
-
 ### Entregas
 - **[FRONTEND]** Al agregar una submission, mostrar unicamente los estudiantes del semestre que no tienen submission
   
