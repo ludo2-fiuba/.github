@@ -6,7 +6,6 @@
 
 ### Entregas
 - **[FRONTEND]** Al agregar una submission, mostrar unicamente los estudiantes del semestre que no tienen submission
-- **[FRONTEND]** AL poner una nota, hacer force refresh
   
 ### Registro de asistencias (tanto alumnos como docentes)
 - **[BACKEND]** borrar asistencia de alumno a clase
