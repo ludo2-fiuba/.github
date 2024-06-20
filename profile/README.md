@@ -2,9 +2,6 @@
 
 ### Entregas
 - **[FRONTEND]** Al agregar una submission, mostrar unicamente los estudiantes del semestre que no tienen submission
-  
-### Registro de asistencias (tanto alumnos como docentes)
-- **[BACKEND]** borrar asistencia de alumno a clase
 
 ### UI según permisos
 - **[FRONTEND]** No podes asignar notas a submissions donde no sos corrector a menos que seas chief teacher
