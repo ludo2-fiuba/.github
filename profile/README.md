@@ -1,7 +1,6 @@
 # Profesores
 
 ### Asignación automática de correctores
-- **[FRONTEND]** Mostrar porcentajes en cuerpo docente (los pesos de la catedra convertido a porcentaje)
 - **[BACKEND]** Que ignore aquellos que ya tienen nota la asignación automatica de correctores 
 
 ### Entregas
