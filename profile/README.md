@@ -20,11 +20,3 @@
 # Alumnos
 ### Notificaciones y avisos 
 Falta testear
-
-# ~Backoffice~
-### ~Registro de auditoría~
-**[BACKEND]** Mostrar tabla en el backoffice -> guardar en español
-
-
-
-
