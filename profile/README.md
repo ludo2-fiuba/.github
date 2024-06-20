@@ -1,70 +1,38 @@
 # Profesores
 
-### Crear semestre (no está en la propuesta)
-~Backend + Frontend~ 
-
-### ~~Colaboración entre docentes~~
---> queda para LUDO3
-
 ### Asignación automática de correctores
+- **[FRONTEND]** Mostrar porcentajes en cuerpo docente (los pesos de la catedra convertido a porcentaje)
+- **[BACKEND]** Que ignore aquellos que ya tienen nota la asignación automatica de correctores 
 
-Falta 
-- Pantalla para editar los pesos de los docentes
-- ~Endpoint para editar los pesos~
-- Agregar botón "asignar correctores" y que se haga la call al endpoint que ya existe.
-- Solo debería poder editar la nota el corrector asignado (debatible)
-
+### Entregas
+- **[FRONTEND]** Al agregar una submission, mostrar unicamente los estudiantes del semestre que no tienen submission
+- **[FRONTEND]** AL poner una nota, hacer force refresh
+  
 ### Registro de asistencias (tanto alumnos como docentes)
+- **[BACKEND]** borrar asistencia de alumno a clase
 
-- ~Pantalla para ver asistencias de una fecha~ 
-- ~Pantalla para agregar una asistencia manual~
-- ~Lo que necesito del backend es tipo:~ -> Hecho
-```json
-[
-    "fecha": "13/4/2024",
-    "asistentes": ["41318038", "41..."]
-]
-```
-
-### Modelado de los criterios de aprobación
-
-Es un endpoint que ya está hecho {{baseUrl}}/api/semesters/is_passing?semester_id=2
-
-Lo que tenemos:
-- Cantidad de clases de un cuatrimestres
-- Porcentaje de asistencia minimo
-- Nota minima para las evaluaciones (para cada una de las evaluaciones) (está definido en la evaluación)
-- Todas las evaluaciones que tienen notas se consideran obligatorias para aprobar
-- Se consideran recuperatorios
-
-Como modificamos esto desde el teacher:
-- cantidad de clases totales: ~endpoint~ + front
-- Porcentaje de asistencia minimo: ~endpoint~ + front 
-- Nota minima para las evaluaciones: ~endpoint~ + front (edición de evaluaciones)
+### UI según permisos
+- **[FRONTEND]** No podes asignar notas a submissions donde no sos corrector a menos que seas chief teacher
+    - Si sos chief, podes poner la nota y automaticamente se pisa el corrector.
 
 ### Estadísticas
- - ~Alumnos: falta el front~
-   - ~Promedio a lo largo del tiempo -> sí~
-   - ~Comparación de mis promedios vs. global -> sí~
-   - ~Comparación avance de carrera vs. global -> (deprecada por otra)~
-   - ~mis top 3 materias (nota mucho mejor que el resto) -> sí~
+ -  **[BACKEND]** Profesores:
+   - tasa de retención: cuando abandonan más los alumnos la materia -> hay que ajustar el backend para que de los deltas de cada dia y no los acumulados
 
- - Profesores (~falta todo~): falta el front
-   - ~correlación entre asistencias y aprobación -> (deprecada por otra)~
-   - tasa de retención: cuando abandonan más los alumnos la materia -> sí
-   - promedio de notas de alumnos a lo largo del tiempo -> sí
-   - porcentaje de asistencias durante el cuatrimestre -> sí
+### Nice to have
+- Hay algunas pantallas con forms que no scrollean
+- Emprolijar botones
+- Emprolijar LUDO ICON
+- Sacar IDS
 
 # Alumnos
-### ~Registro de cursada completa~
-Done
-
 ### Notificaciones y avisos 
 Falta testear
 
 # ~Backoffice~
 ### ~Registro de auditoría~
-~Mostrar tabla en el backoffice~
+**[BACKEND]** Mostrar tabla en el backoffice -> guardar en español
 
-### ~~Finales unificados~~
-~~Discutir~~ --> queda para LUDO3
+
+
+
