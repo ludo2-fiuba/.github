@@ -3,6 +3,11 @@
 ### Submissions
 - Agregar toast al cambiar algo de submissions
 
+### Entregas del final
+- Usar un header right para agregar alumno
+- Conectar botón de cerrar acta
+- styling en general
+
 ### Auto-asignar porcentajes
 - Bug: cuando hay 0 o 1 docente, al cambiar la ponderacion tira undefined error (staffTeachers esta empty)
     
