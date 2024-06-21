@@ -9,7 +9,6 @@
 - styling en general
 
 ### Nice to have
-- Hay algunas pantallas con forms que no scrollean
 - Emprolijar botones
 - Emprolijar LUDO ICON
 - Sacar IDS
