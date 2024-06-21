@@ -1,8 +1,5 @@
 # Profesores
 
-### Submissions
-- Agregar toast al cambiar algo de submissions
-
 ### Entregas del final
 - Usar un header right para agregar alumno
 - Conectar botón de cerrar acta
