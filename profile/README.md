@@ -1,7 +1,8 @@
 # Profesores
 
-### Pre-registro
-- Rework estilos del flujo de pre-registro
+### Evaluaciones
+- Boton de generar QR para que los alumnos escaneen (marquen la entrega)
+- Capaz un boton de refresh?
 
 ### Entregas del final
 - Conectar botón de cerrar acta
