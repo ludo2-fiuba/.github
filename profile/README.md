@@ -1,9 +1,5 @@
 # Profesores
 
-### Evaluaciones
-- Boton de generar QR para que los alumnos escaneen (marquen la entrega)
-- Capaz un boton de refresh?
-
 ### Asistencias
 - Capaz un boton de refresh a las asistencias? Para ver como van escaneando los alumnos
 
