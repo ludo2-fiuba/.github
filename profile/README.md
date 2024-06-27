@@ -4,7 +4,9 @@
 - Capaz un boton de refresh a las asistencias? Para ver como van escaneando los alumnos
 
 ### Entregas del final
-- Conectar botón de cerrar acta
+- Cuando un acta esta cerrada no permitir
+  - modificar notas
+  - agregar alumno 
 
 ### Nice to have
 - Sacar IDS
