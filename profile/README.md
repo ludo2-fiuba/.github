@@ -1,13 +1,10 @@
-# Alumnos
-### Notificaciones y avisos 
-Falta testear
-
-# Apps global
-- Cambiar "Semestre" por "Cuatrimestre" en las apps
-
-# PPT
-- Videos
-
-# Informe
-- Adjuntar repositorios
-- Revision final
+```
+ ___                __             ___     
+/\_ \              /\ \          /'___`\   
+\//\ \    __  __   \_\ \    ___ /\_\ /\ \  
+  \ \ \  /\ \/\ \  /'_` \  / __`\/_/// /__ 
+   \_\ \_\ \ \_\ \/\ \L\ \/\ \L\ \ // /_\ \
+   /\____\\ \____/\ \___,_\ \____//\______/
+   \/____/ \/___/  \/__,_ /\/___/ \/_____/ 
+```                                           
+                                           
